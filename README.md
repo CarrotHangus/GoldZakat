@@ -1,4 +1,5 @@
 **Overview**
+
 This project is part of our universiti's assignment for Mobile App Development subject. GoldZakat is an Android application designed to help users calculate the Zakat they need to pay based on their income and the value of their gold holdings. The app is built using Android Studio and is compatible with devices running Android 10 and above.
 
 **Features**
@@ -22,7 +23,9 @@ This project is part of our universiti's assignment for Mobile App Development s
 - Android 10 or higher
 
 **Contributing**
+
 We welcome contributions to enhance the functionality and features of GoldZakat. Please fork the repository and submit pull requests.
 
 **Contact**
+
 For any inquiries or support, please contact me at harith.shariffudin@gmail.com
