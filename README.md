@@ -3,11 +3,11 @@ GoldZakat is an Android application designed to help users calculate the Zakat t
 
 Features
 - Gold Value Zakat Calculation: Determine the Zakat payable on your gold holdings.
--v User-Friendly Interface: Simple and intuitive design for easy navigation.
+- User-Friendly Interface: Simple and intuitive design for easy navigation.
 - Compatibility: Runs smoothly on Android 10 and above.
-- 
+
 Installation
--Clone the repository
+- Clone the repository
 - Open the project in Android Studio.
 - Build the project and run it on an Android device or emulator.
 
