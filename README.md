@@ -26,6 +26,10 @@ This project is part of our university's assignment for Mobile App Development s
 
 We welcome contributions to enhance the functionality and features of GoldZakat. Please fork the repository and submit pull requests.
 
+**License**
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 **Contact**
 
 For any inquiries or support, please contact me at harith.shariffudin@gmail.com
